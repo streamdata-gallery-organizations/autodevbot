@@ -10,8 +10,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "9"
 x-alexaRank: ""
 tags: AutoDevBot
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/autodevbot/master/_listings/autodevbot/apis.md
 specificationVersion: "0.14"
 apis: []
